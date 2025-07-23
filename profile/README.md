@@ -1,4 +1,4 @@
-<img src="./assets/vernonit-logo.svg" width="600px" height="170px" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="./assets/vernonit-signature.svg" width="336px" height="192px" style="display: block; margin-left: auto; margin-right: auto;" />
 
 ## VernonIT
 
